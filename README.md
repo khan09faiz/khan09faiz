@@ -57,14 +57,14 @@ me = AIEngineer()
 
 <div align="center">
 
-[![Capital Preservation System](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=capital-preservation-system-&theme=radical&hide_border=true)](https://github.com/khan09faiz/capital-preservation-system-)
+
 [![Idea Recommendation Model](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Idea-Recommendation-model-&theme=radical&hide_border=true)](https://github.com/khan09faiz/Idea-Recommendation-model-)
 
 [![Blind Cap Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=blind-cap-object-detection&theme=radical&hide_border=true)](https://github.com/khan09faiz/blind-cap-object-detection)
 [![Unified Stock Market](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Unified-stock-market&theme=radical&hide_border=true)](https://github.com/khan09faiz/Unified-stock-market)
 
 [![Ground Water Detection](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=ground-water-detection&theme=radical&hide_border=true)](https://github.com/khan09faiz/ground-water-detection)
-[![RAG Bot](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=rag-bot&theme=radical&hide_border=true)](https://github.com/khan09faiz/rag-bot)
+
 
 </div>
 
