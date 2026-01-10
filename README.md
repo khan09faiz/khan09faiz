@@ -105,43 +105,6 @@ me = AIEngineer()
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khan09faiz&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khan09faiz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 💼 Capital Preservation System
-**Advanced financial risk management using AI**  
-🔹 Reinforcement Learning | Risk Analysis | Portfolio Optimization
-
-### 🤖 Idea Recommendation Model
-**Hybrid recommendation system for creative solutions**  
-🔹 Collaborative Filtering | Content-Based | Deep Learning
-
-### 👁️ Blind Cap Object Detection
-**Computer vision assistance for visually impaired**  
-🔹 YOLOv5 | Real-time Detection | Accessibility Tech
-
-### 📈 Unified Stock Market System
-**Intelligent trading and market analysis platform**  
-🔹 Time Series | Predictive Analytics | Financial ML
-
-### 🌊 Ground Water Detection
-**ML-based groundwater prediction system**  
-🔹 Geospatial Analysis | Predictive Modeling | Environmental Tech
-
-</div>
-
----
 
 ## ⚡ What I'm Building
 
