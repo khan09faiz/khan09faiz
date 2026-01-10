@@ -53,6 +53,23 @@ me = AIEngineer()
 
 ---
 
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![Capital Preservation System](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=capital-preservation-system-&theme=radical&hide_border=true)](https://github.com/khan09faiz/capital-preservation-system-)
+[![Idea Recommendation Model](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Idea-Recommendation-model-&theme=radical&hide_border=true)](https://github.com/khan09faiz/Idea-Recommendation-model-)
+
+[![Blind Cap Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=blind-cap-object-detection&theme=radical&hide_border=true)](https://github.com/khan09faiz/blind-cap-object-detection)
+[![Unified Stock Market](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Unified-stock-market&theme=radical&hide_border=true)](https://github.com/khan09faiz/Unified-stock-market)
+
+[![Ground Water Detection](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=ground-water-detection&theme=radical&hide_border=true)](https://github.com/khan09faiz/ground-water-detection)
+[![RAG Bot](https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=rag-bot&theme=radical&hide_border=true)](https://github.com/khan09faiz/rag-bot)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -112,7 +129,7 @@ me = AIEngineer()
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khan09faiz&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-
+---
 
 ## 📫 Let's Connect!
 
@@ -124,10 +141,12 @@ me = AIEngineer()
 
 </div>
 
+---
+
 <div align="center">
   
 ### 💡 "Building intelligent systems that solve real-world problems"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Adios!%20&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
