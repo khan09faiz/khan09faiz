@@ -57,28 +57,6 @@ and cloud infrastructure—taking models from research to production.
 
 ---
 
-## 📂 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/khan09faiz/AI-Trading-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=AI-Trading-System&theme=tokyonight" alt="AI Trading System" />
-  </a>
-  <a href="https://github.com/khan09faiz/Object-Detection-YOLOv5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Object-Detection-YOLOv5&theme=tokyonight" alt="Object Detection YOLOv5" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/khan09faiz/Time-Series-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Time-Series-Forecasting&theme=tokyonight" alt="Time Series Forecasting" />
-  </a>
-  <a href="https://github.com/khan09faiz/Enterprise-Automation-SAP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Enterprise-Automation-SAP&theme=tokyonight" alt="Enterprise Automation SAP" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -90,20 +68,6 @@ and cloud infrastructure—taking models from research to production.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khan09faiz&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## ⚡ Currently Building
-
-- 🔥 Production-grade AI pipelines
-- 📈 Reinforcement learning for finance
-- ☁️ Cloud-native ML systems
-- 🤖 Intelligent automation frameworks
-
----
 
 ## 🌐 Connect With Me
 
@@ -124,5 +88,3 @@ and cloud infrastructure—taking models from research to production.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
