@@ -59,15 +59,15 @@ and cloud infrastructure—taking models from research to production.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khan09faiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan09faiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khan09faiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/khan09faiz)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khan09faiz&theme=tokyonight&hide_border=true)](https://github.com/khan09faiz)
 
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/khan09faiz)
+
+</div>
 
 ## 🌐 Connect With Me
 
