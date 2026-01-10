@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=khan09faiz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/khan09faiz?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/stars/khan09faiz?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+
 
 </div>
 
