@@ -14,9 +14,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class AIEngineer:
@@ -42,7 +44,12 @@ class AIEngineer:
 me = AIEngineer()
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,19 +98,20 @@ me = AIEngineer()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khan09faiz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=khan09faiz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khan09faiz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=khan09faiz&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan09faiz&theme=radical" alt="Profile Summary" />
-</div>
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan09faiz&theme=radical" alt="Profile Summary" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khan09faiz&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khan09faiz&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</p>
+
 
 
 ## ⚡ What I'm Building
@@ -111,24 +119,20 @@ me = AIEngineer()
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/khan09faiz/khan09faiz/assets/154955142/ai-pipeline.gif" width="80" alt="AI Pipeline" onerror="this.style.display='none'">
       <h3>🔥 Production AI Pipelines</h3>
       <p>Scalable ML systems from research to deployment</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/khan09faiz/khan09faiz/assets/154955142/rl-finance.gif" width="80" alt="RL Finance" onerror="this.style.display='none'">
       <h3>📈 RL for Finance</h3>
       <p>Intelligent trading agents using reinforcement learning</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/khan09faiz/khan09faiz/assets/154955142/cloud-ml.gif" width="80" alt="Cloud ML" onerror="this.style.display='none'">
       <h3>☁️ Cloud-Native ML</h3>
       <p>Distributed systems for large-scale AI workloads</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/khan09faiz/khan09faiz/assets/154955142/automation.gif" width="80" alt="Automation" onerror="this.style.display='none'">
       <h3>🤖 Intelligent Automation</h3>
       <p>Enterprise-grade automated workflows</p>
     </td>
@@ -147,18 +151,6 @@ me = AIEngineer()
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
