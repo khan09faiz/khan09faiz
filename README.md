@@ -114,33 +114,6 @@ me = AIEngineer()
 
 
 
-## ⚡ What I'm Building
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔥 Production AI Pipelines</h3>
-      <p>Scalable ML systems from research to deployment</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📈 RL for Finance</h3>
-      <p>Intelligent trading agents using reinforcement learning</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>☁️ Cloud-Native ML</h3>
-      <p>Distributed systems for large-scale AI workloads</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 Intelligent Automation</h3>
-      <p>Enterprise-grade automated workflows</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -148,7 +121,6 @@ me = AIEngineer()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan09faiz/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan09faiz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khan09faiz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -156,6 +128,6 @@ me = AIEngineer()
   
 ### 💡 "Building intelligent systems that solve real-world problems"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Adios!%20&fontSize=20&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
