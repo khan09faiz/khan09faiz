@@ -1,21 +1,128 @@
-# 💫 About Me:
-I’m an AI and systems-focused developer passionate about building intelligent, scalable, and real-world solutions. My work spans a wide range of technologies including Python, OpenCV, YOLOv5, TensorFlow, React, Node.js, SAP ABAP, HANA DB, and AWS. I’ve applied these tools to create end-to-end systems—from object detection and geospatial analysis to financial forecasting and enterprise automation.<br><br>I specialize in integrating deep learning, time-series forecasting, reinforcement learning, and cloud infrastructure into practical applications. Whether it's developing real-time wearable tech, automating enterprise workflows, or deploying AI-driven trading strategies, I focus on building solutions that are robust, efficient, and impactful.<br><br>Always exploring new challenges at the intersection of AI, automation, and intelligent systems.
+# 👋 Hi, I'm **Mohammad Faiz Khan**
 
+### 🤖 AI Engineer | Systems Developer | Intelligent Automation
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khan09faiz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khan09faiz@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%7C+Systems+%7C+Automation;Computer+Vision+%7C+Time+Series+%7C+Reinforcement+Learning;Building+Production-Ready+Intelligent+Systems" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khan09faiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khan09faiz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khan09faiz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khan09faiz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/khan09faiz?label=Followers&style=social" alt="Followers" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khan09faiz&icon=0&color=3)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+```txt
+AI and systems-focused developer building scalable, real-world solutions.
+I work across deep learning, reinforcement learning, time-series forecasting,
+and cloud infrastructure—taking models from research to production.
+
+🧠 AI / ML / DL (Computer Vision, RL, Forecasting)
+⚙️ End-to-end systems (Model → API → Cloud)
+📈 Financial & trading intelligence
+🏢 Enterprise automation (SAP, HANA)
+```
+
+---
+
+## 🧩 Tech Stack
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI/ML Stack" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs" alt="Backend Stack" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js" alt="Frontend Stack" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud & Tools" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" alt="Databases" />
+</p>
+
+---
+
+## 📂 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/khan09faiz/AI-Trading-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=AI-Trading-System&theme=tokyonight" alt="AI Trading System" />
+  </a>
+  <a href="https://github.com/khan09faiz/Object-Detection-YOLOv5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Object-Detection-YOLOv5&theme=tokyonight" alt="Object Detection YOLOv5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khan09faiz/Time-Series-Forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Time-Series-Forecasting&theme=tokyonight" alt="Time Series Forecasting" />
+  </a>
+  <a href="https://github.com/khan09faiz/Enterprise-Automation-SAP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khan09faiz&repo=Enterprise-Automation-SAP&theme=tokyonight" alt="Enterprise Automation SAP" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khan09faiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan09faiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan09faiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khan09faiz&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## ⚡ Currently Building
+
+- 🔥 Production-grade AI pipelines
+- 📈 Reinforcement learning for finance
+- ☁️ Cloud-native ML systems
+- 🤖 Intelligent automation frameworks
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khan09faiz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khan09faiz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/khan09faiz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
