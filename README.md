@@ -1,5 +1,12 @@
 # 👋 Hi, I'm **Mohammad Faiz Khan**
 
+<p align="center">
+  <a href="https://portfolio-faiz-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
 <div align="center">
   
 ### 🤖 AI Engineer | Systems Developer | Intelligent Automation
