@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://portfolio-faiz-nu.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Explore+My+Portfolio;💻+Production-Ready+AI+Projects;🤖+Real-World+Intelligent+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Explore+My+Portfolio" />
   </a>
 </p>
 
