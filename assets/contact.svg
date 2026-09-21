@@ -1,0 +1,51 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="contact"><defs>
+    <filter id="fiber" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.82" numOctaves="4" />
+      <feColorMatrix type="saturate" values="0" />
+    </filter>
+    <pattern id="tooth" width="7" height="7" patternTransform="rotate(38)"
+             patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#ffffff" stroke-width="1"
+            stroke-opacity="0.13" />
+    </pattern>
+    <style>
+      /* An SVG embedded through &lt;img&gt; restarts its timeline every time the
+         host page re-rasterises, so nothing that carries meaning is allowed to
+         depend on an animation finishing. Text animates on transform only --
+         worst case a label sits a few pixels low, never invisible. */
+      @keyframes stroke { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+      @keyframes rise { from { transform: translateY(10px); } to { transform: translateY(0); } }
+      @keyframes settle { from { transform: translateY(16px); } to { transform: translateY(0); } }
+      @keyframes breathe { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @keyframes press { from { transform: scale(0.82) rotate(-7deg); }
+                          to { transform: scale(1) rotate(0deg); } }
+      .br path { stroke-dasharray: 1; animation: stroke 2.4s ease-out backwards; }
+      .rg { animation: settle 1.1s cubic-bezier(.2,.75,.3,1) backwards; }
+      .tx { animation: rise 0.7s cubic-bezier(.2,.7,.3,1) backwards; }
+      .sp { animation: breathe 3.6s ease-in-out infinite; }
+      .seal { transform-box: fill-box; transform-origin: center;
+               animation: press 0.9s cubic-bezier(.2,1.2,.35,1) backwards; }
+      @media (prefers-reduced-motion: reduce) {
+        .br path, .rg, .tx, .sp, .seal { animation: none; }
+      }
+    </style>
+    
+  </defs><rect width="1200" height="200" rx="14" fill="#fffffe" />
+  <rect width="1200" height="200" rx="14" filter="url(#fiber)" opacity="0.035" />
+  <rect x="24" y="21" width="3" height="12" rx="1.5" fill="#bf2a22" />
+  <text x="36" y="31" fill="#1a1816" font-size="12" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace"
+        letter-spacing="2.4" opacity="0.88">CONTACT &#183; GET IN TOUCH</text><text x="1176" y="31" fill="#a8a096" font-size="11.5" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" text-anchor="end">pick one, write a line</text>
+  <line x1="24" y1="45" x2="1176" y2="45" stroke="#e2ddd5" stroke-width="1" />
+  <g class="tx" style="animation-delay:0.12s"><rect x="24.0" y="62" width="376.0" height="62" rx="10" fill="#f6f4f0" stroke="#bf2a22" stroke-opacity="0.45" stroke-width="1" /><circle cx="50.0" cy="93" r="9" fill="none" stroke="#bf2a22" stroke-width="1.5" /><circle cx="50.0" cy="93" r="4.5" fill="#bf2a22" /><text x="72.0" y="89" fill="#1a1816" font-size="13.5" font-weight="600" font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">Freelance project</text><text x="72.0" y="107" fill="#a8a096" font-size="11" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">scoped work, contract, or consulting</text></g><g class="tx" style="animation-delay:0.19s"><rect x="412.0" y="62" width="376.0" height="62" rx="10" fill="#f6f4f0" stroke="#a8a096" stroke-opacity="0.35" stroke-width="1" /><circle cx="438.0" cy="93" r="9" fill="none" stroke="#a8a096" stroke-width="1.5" /><text x="460.0" y="89" fill="#1a1816" font-size="13.5" font-weight="600" font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">Full&#8209;time role</text><text x="460.0" y="107" fill="#a8a096" font-size="11" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">open to offers and interviews</text></g><g class="tx" style="animation-delay:0.26s"><rect x="800.0" y="62" width="376.0" height="62" rx="10" fill="#f6f4f0" stroke="#a8a096" stroke-opacity="0.35" stroke-width="1" /><circle cx="826.0" cy="93" r="9" fill="none" stroke="#a8a096" stroke-width="1.5" /><text x="848.0" y="89" fill="#1a1816" font-size="13.5" font-weight="600" font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">Something else</text><text x="848.0" y="107" fill="#a8a096" font-size="11" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">collaboration, questions, or hello</text></g>
+  <g class="tx" style="animation-delay:0.34s">
+    <rect x="24" y="148" width="268" height="30" rx="15" fill="#bf2a22"
+          fill-opacity="0.10" stroke="#bf2a22" stroke-opacity="0.5" stroke-width="1" />
+    <text x="158.0" y="167.5" fill="#bf2a22" font-size="11.5"
+          font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace" font-weight="600" letter-spacing="1.1"
+          text-anchor="middle">OPEN THE CONTACT FORM &#8594;</text>
+    <text x="1176" y="162" fill="#a8a096" font-size="11.5" font-family="JetBrains Mono, SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace"
+          text-anchor="end">portfolio&#8209;faiz&#8209;nu.vercel.app &#183; khan09faiz.github.io/khan09faiz</text>
+    <text x="310" y="167.5" fill="#5c564f" font-size="11.5"
+          font-family="Inter, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">replies land in my inbox</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="198.5" rx="14" fill="none" stroke="#e2ddd5" stroke-width="1.5" /></svg>
