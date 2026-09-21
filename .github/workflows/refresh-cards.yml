@@ -1,7 +1,10 @@
 name: Refresh profile graphics
 
-# Needs a repo secret named PROFILE_PAT: a classic PAT with `repo` + `read:user`
-# scope. The default GITHUB_TOKEN cannot read the contribution calendar.
+# Needs a repo secret named PROFILE_PAT holding a classic PAT with the
+# `read:user` scope. That scope is the only thing the PAT is for: the default
+# GITHUB_TOKEN can do everything here except read the contribution calendar.
+# Checkout and push both use the built-in GITHUB_TOKEN, so the PAT does not
+# need `repo` and a bad PAT can never break the checkout.
 
 on:
   schedule:
@@ -15,19 +18,36 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.PROFILE_PAT }}
-
-      - name: Verify PROFILE_PAT is present
+      # Runs before checkout so a missing or under-scoped PAT reports itself
+      # instead of surfacing as an opaque checkout failure.
+      - name: Verify PROFILE_PAT
         env:
           PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
         run: |
           if [ -z "$PROFILE_PAT" ]; then
-            echo "::error::PROFILE_PAT repo secret is not set. Create a classic PAT with 'repo' + 'read:user' scope, then add it under Settings -> Secrets and variables -> Actions."
+            echo "::error::PROFILE_PAT repo secret is not set. Settings -> Secrets and variables -> Actions -> New repository secret, named exactly PROFILE_PAT, holding a classic PAT with the read:user scope."
             exit 1
           fi
+
+          code=$(curl -sS -o /tmp/probe.json -w '%{http_code}' \
+            -X POST https://api.github.com/graphql \
+            -H "Authorization: bearer $PROFILE_PAT" \
+            -H "Content-Type: application/json" \
+            -d '{"query":"query{viewer{login contributionsCollection{contributionCalendar{totalContributions}}}}"}')
+
+          if [ "$code" != "200" ]; then
+            echo "::error::PROFILE_PAT was rejected by the GitHub API (HTTP $code). It is probably expired or mistyped."
+            exit 1
+          fi
+          if grep -q '"errors"' /tmp/probe.json; then
+            echo "::error::PROFILE_PAT is valid but cannot read the contribution calendar. It needs the read:user scope. Note that fine-grained tokens do not work here - use a classic PAT."
+            head -c 800 /tmp/probe.json
+            exit 1
+          fi
+          echo "PROFILE_PAT OK - calendar readable."
+
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Render cards
         run: python3 scripts/render_cards.py
