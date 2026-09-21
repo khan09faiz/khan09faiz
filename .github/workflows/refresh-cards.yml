@@ -1,0 +1,45 @@
+name: Refresh profile graphics
+
+# Needs a repo secret named PROFILE_PAT: a classic PAT with `repo` + `read:user`
+# scope. The default GITHUB_TOKEN cannot read the contribution calendar.
+
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PROFILE_PAT }}
+
+      - name: Verify PROFILE_PAT is present
+        env:
+          PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
+        run: |
+          if [ -z "$PROFILE_PAT" ]; then
+            echo "::error::PROFILE_PAT repo secret is not set. Create a classic PAT with 'repo' + 'read:user' scope, then add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+
+      - name: Render cards
+        run: python3 scripts/render_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
+          GITHUB_USER: khan09faiz
+          OUT_DIR: assets
+
+      - name: Commit generated graphics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || git commit -m "chore: refresh profile graphics"
+          git push
